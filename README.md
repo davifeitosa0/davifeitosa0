@@ -1,6 +1,6 @@
 
 
-### Olá! Seja bem vindo  ao meu perfil, sou Davi Feitosa👋
+### Olá! Seja bem vindo  ao meu perfil, eu sou o Davi Feitosa👋
 ####  👨‍💻 1° Semestre de Análise e Desenvolvimento de Sistemas pela SPTECH 👨‍💻
 
 ![Davi GitHub stats](https://github-readme-stats.vercel.app/api?username=davifeitosa0&show_icons=true&theme=transparent)![Davi Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davifeitosa0&layout=compact&theme=transparent)
