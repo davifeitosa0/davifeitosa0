@@ -3,7 +3,8 @@
 ### Olá! Seja bem vindo  ao meu perfil, eu sou o Davi Feitosa👋
 ####  👨‍💻 1° Semestre de Análise e Desenvolvimento de Sistemas pela SPTECH 👨‍💻
 
-![Davi GitHub stats](https://github-readme-stats.vercel.app/api?username=davifeitosa0&show_icons=true&theme=transparent)![Davi Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davifeitosa0&layout=compact&theme=transparent)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=davifeitosa0&count_private=true&rank_icon=github&include_all_commits=true&show_icons=true&theme=midnight-purple&hide_border=false&show_owner=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davifeitosa0&theme=midnight-purple&hide_border=false&&layout=compact"/>
 
 <h3> Tecnologias que eu utilizo</h3>
 <div style="display: inline_block">
