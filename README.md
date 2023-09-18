@@ -15,6 +15,3 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davifeitosa0&theme=midnight-purple&hide_border=false&&layout=compact"/>
   </a>
 </div>
-
-
-</div>
