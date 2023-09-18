@@ -11,7 +11,7 @@
 </div><br>
 <div align="center">
   <a href="https://github.com/davifeitosa0">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=davifeitosa0&count_private=true&rank_icon=github&include_all_commits=true&show_icons=true&theme=midnight-purple&hide_border=false&show_owner=true"/>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davifeitosa0&theme=midnight-purple&hide_border=false&&layout=compact"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=davifeitosa0&count_private=true&rank_icon=github&include_all_commits=true&show_icons=true&theme=midnight-purple&hide_border=false&show_owner=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davifeitosa0&theme=midnight-purple&hide_border=false&&layout=compact"/>
   </a>
 </div>
