@@ -1,4 +1,4 @@
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=111&height=120&section=header"/>
 
 ### Olá! Seja bem vindo  ao meu perfil, eu sou o Davi Feitosa👋
 ####  👨‍💻 1° Semestre de Análise e Desenvolvimento de Sistemas pela SPTECH 👨‍💻
