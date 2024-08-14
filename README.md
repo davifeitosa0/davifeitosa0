@@ -12,9 +12,5 @@
       <img align="center" alt="Davi-MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>   
   </div>
 </div><br>
-<div align="center">
-  <a href="https://github.com/davifeitosa0">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=davifeitosa0&count_private=true&rank_icon=github&include_all_commits=true&show_icons=true&theme=midnight-purple&hide_border=false&show_owner=true"/>
-  </a>
-</div>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=371f76&height=120&section=footer"/>
